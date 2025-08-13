@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1748085381 source:d:\downloads\downloads\libraryprojectteam13\book.cpp
+	"Book.h"
+
+1748179797 d:\downloads\downloads\libraryprojectteam13\book.h
+	<iostream>
+	<string>
+
+1748167556 source:d:\downloads\downloads\libraryprojectteam13\customer.cpp
+	"Customer.h"
+
+1748167678 d:\downloads\downloads\libraryprojectteam13\customer.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	<filesystem>
+	<fstream>
+	<string>
+	<iostream>
+
+1748050771 d:\downloads\downloads\libraryprojectteam13\user.h
+	<iostream>
+	<string>
+
+1748167436 d:\downloads\downloads\libraryprojectteam13\library.h
+	"Book.h"
+	<string>
+	<iostream>
+	<filesystem>
+	<fstream>
+
+1748167678 source:d:\downloads\downloads\libraryprojectteam13\librarian.cpp
+	"Librarian.h"
+
+1748167678 d:\downloads\downloads\libraryprojectteam13\librarian.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	<iostream>
+	<filesystem>
+	<fstream>
+	<string>
+
+1748167436 source:d:\downloads\downloads\libraryprojectteam13\library.cpp
+	"library.h"
+
+1748168540 source:d:\downloads\downloads\libraryprojectteam13\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Book.h"
+	"Library.h"
+	"librarian.h"
+	"customer.h"
+	"user.h"
+
+1748044620 source:d:\downloads\downloads\libraryprojectteam13\user.cpp
+	<iostream>
+	<string>
+	"User.h"
+

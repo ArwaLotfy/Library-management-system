@@ -1,0 +1,416 @@
+# depslib dependency file v1.0
+1747856912 source:d:\alisss\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1747862079 source:d:\alisss\user.cpp
+	<iostream>
+	<string>
+	"User.h"
+
+1747868462 d:\alisss\user.h
+	<iostream>
+	<string>
+
+1747859165 source:d:\alisss\main_demo.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdio>
+
+1747861901 source:d:\alisss\main_handmade.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdio>
+	"user.h"
+
+1747867243 source:d:\alisss\dateinfo.cpp
+	"DateInfo.h"
+
+1747867243 d:\alisss\dateinfo.h
+	<iostream>
+
+1747874718 source:d:\alisss\book.cpp
+	"Book.h"
+
+1747874545 d:\alisss\book.h
+	<string>
+	"DateInfo.h"
+
+1747874991 source:d:\alisss\library.cpp
+	"library.h"
+
+1747873508 d:\alisss\library.h
+	"Book.h"
+	"DateInfo.h"
+	<string>
+
+1747873486 source:d:\alisss\librarian.cpp
+	"Librarian.h"
+	<iostream>
+	<filesystem>
+	<fstream>
+
+1747872956 d:\alisss\librarian.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	"DateInfo.h"
+
+1747874445 d:\alisss\customer.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	"DateInfo.h"
+
+1747874880 source:d:\alisss\customer.cpp
+	"Customer.h"
+
+1748044620 source:d:\library management project\book.cpp
+	"Book.h"
+
+1748044620 d:\library management project\book.h
+	<string>
+	"DateInfo.h"
+
+1747867243 d:\library management project\dateinfo.h
+	<iostream>
+
+1748048221 source:d:\library management project\customer.cpp
+	"Customer.h"
+	<filesystem>
+	<fstream>
+
+1748046837 d:\library management project\customer.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	"DateInfo.h"
+
+1748044620 d:\library management project\user.h
+	<iostream>
+	<string>
+
+1748044620 d:\library management project\library.h
+	"Book.h"
+	"DateInfo.h"
+	<string>
+	<filesystem>
+	<fstream>
+
+1747867243 source:d:\library management project\dateinfo.cpp
+	"DateInfo.h"
+
+1748049545 source:d:\library management project\librarian.cpp
+	"Librarian.h"
+	<iostream>
+	<filesystem>
+	<fstream>
+
+1748044620 d:\library management project\librarian.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	"DateInfo.h"
+
+1748047357 source:d:\library management project\library.cpp
+	"library.h"
+
+1748046916 source:d:\library management project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"DateInfo.h"
+	"Book.h"
+	"Library.h"
+	"librarian.h"
+	"customer.h"
+	"user.h"
+
+1747859165 source:d:\library management project\main_demo.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdio>
+
+1747861901 source:d:\library management project\main_handmade.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdio>
+	"user.h"
+
+1748044620 source:d:\library management project\user.cpp
+	<iostream>
+	<string>
+	"User.h"
+
+1748044620 source:d:\library management project\library management project\book.cpp
+	"Book.h"
+
+1748044620 d:\library management project\library management project\book.h
+	<string>
+	"DateInfo.h"
+
+1747867243 d:\library management project\library management project\dateinfo.h
+	<iostream>
+
+1748050937 source:d:\library management project\library management project\librarian.cpp
+	"Librarian.h"
+	<iostream>
+	<filesystem>
+	<fstream>
+
+1748050901 d:\library management project\library management project\librarian.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	"DateInfo.h"
+
+1748050771 d:\library management project\library management project\user.h
+	<iostream>
+	<string>
+
+1748050771 d:\library management project\library management project\customer.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	"DateInfo.h"
+
+1748050771 d:\library management project\library management project\library.h
+	"Book.h"
+	"DateInfo.h"
+	<string>
+	<filesystem>
+	<fstream>
+
+1748047357 source:d:\library management project\library management project\library.cpp
+	"library.h"
+
+1748044620 source:d:\library management project\library management project\user.cpp
+	<iostream>
+	<string>
+	"User.h"
+
+1748050788 source:d:\library management project\library management project\customer.cpp
+	"Customer.h"
+	<filesystem>
+	<fstream>
+
+1748050901 source:d:\library management project\library management project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"DateInfo.h"
+	"Book.h"
+	"Library.h"
+	"librarian.h"
+	"customer.h"
+	"user.h"
+
+1748044620 source:d:\downloads\downloads\library management project\book.cpp
+	"Book.h"
+
+1748044620 d:\downloads\downloads\library management project\book.h
+	<string>
+	"DateInfo.h"
+
+1747867243 d:\downloads\downloads\library management project\dateinfo.h
+	<iostream>
+
+1748050788 source:d:\downloads\downloads\library management project\customer.cpp
+	"Customer.h"
+	<filesystem>
+	<fstream>
+
+1748050771 d:\downloads\downloads\library management project\customer.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	"DateInfo.h"
+
+1748050771 d:\downloads\downloads\library management project\user.h
+	<iostream>
+	<string>
+
+1748052515 d:\downloads\downloads\library management project\library.h
+	"Book.h"
+	"DateInfo.h"
+	<string>
+	<iostream>
+	<filesystem>
+	<fstream>
+
+1748053928 source:d:\downloads\downloads\library management project\librarian.cpp
+	"Librarian.h"
+	<iostream>
+	<filesystem>
+	<fstream>
+
+1748053665 d:\downloads\downloads\library management project\librarian.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	"DateInfo.h"
+
+1748053641 source:d:\downloads\downloads\library management project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"DateInfo.h"
+	"Book.h"
+	"Library.h"
+	"librarian.h"
+	"customer.h"
+	"user.h"
+
+1748044620 source:d:\downloads\downloads\library management project\user.cpp
+	<iostream>
+	<string>
+	"User.h"
+
+1748053708 source:d:\downloads\downloads\library management project\library.cpp
+	"library.h"
+	<string>
+	<iostream>
+
+1748085381 source:d:\downloads\downloads\src\book.cpp
+	"Book.h"
+
+1748044620 d:\downloads\downloads\src\book.h
+	<string>
+	"DateInfo.h"
+
+1747867243 d:\downloads\downloads\src\dateinfo.h
+	<iostream>
+
+1748087985 source:d:\downloads\downloads\src\customer.cpp
+	"Customer.h"
+	<filesystem>
+	<fstream>
+
+1748050771 d:\downloads\downloads\src\customer.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	"DateInfo.h"
+
+1748050771 d:\downloads\downloads\src\user.h
+	<iostream>
+	<string>
+
+1748052515 d:\downloads\downloads\src\library.h
+	"Book.h"
+	"DateInfo.h"
+	<string>
+	<iostream>
+	<filesystem>
+	<fstream>
+
+1748087182 source:d:\downloads\downloads\src\librarian.cpp
+	"Librarian.h"
+	<iostream>
+	<filesystem>
+	<fstream>
+
+1748053665 d:\downloads\downloads\src\librarian.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	"DateInfo.h"
+
+1748086616 source:d:\downloads\downloads\src\library.cpp
+	"library.h"
+	<string>
+	<iostream>
+
+1748085028 source:d:\downloads\downloads\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"DateInfo.h"
+	"Book.h"
+	"Library.h"
+	"librarian.h"
+	"customer.h"
+	"user.h"
+
+1748044620 source:d:\downloads\downloads\src\user.cpp
+	<iostream>
+	<string>
+	"User.h"
+
+1748085381 source:d:\downloads\downloads\team#13\src\book.cpp
+	"Book.h"
+
+1748126865 d:\downloads\downloads\team#13\src\book.h
+	<string>
+
+1748167556 source:d:\downloads\downloads\team#13\src\customer.cpp
+	"Customer.h"
+
+1748167678 d:\downloads\downloads\team#13\src\customer.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	<filesystem>
+	<fstream>
+	<string>
+	<iostream>
+
+1748050771 d:\downloads\downloads\team#13\src\user.h
+	<iostream>
+	<string>
+
+1748167436 d:\downloads\downloads\team#13\src\library.h
+	"Book.h"
+	<string>
+	<iostream>
+	<filesystem>
+	<fstream>
+
+1748167678 source:d:\downloads\downloads\team#13\src\librarian.cpp
+	"Librarian.h"
+
+1748167678 d:\downloads\downloads\team#13\src\librarian.h
+	"User.h"
+	"Customer.h"
+	"Library.h"
+	<iostream>
+	<filesystem>
+	<fstream>
+	<string>
+
+1748167436 source:d:\downloads\downloads\team#13\src\library.cpp
+	"library.h"
+
+1748168540 source:d:\downloads\downloads\team#13\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Book.h"
+	"Library.h"
+	"librarian.h"
+	"customer.h"
+	"user.h"
+
+1748044620 source:d:\downloads\downloads\team#13\src\user.cpp
+	<iostream>
+	<string>
+	"User.h"
+
